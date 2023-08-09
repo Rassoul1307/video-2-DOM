@@ -39,7 +39,7 @@ button {
   transform: translateX(0);
   opacity: 1;
 }
-/* .mousemove {
+.mousemove {
   height: 50px;
   width: 50px;
   border: 2px solid pink;
@@ -48,7 +48,7 @@ button {
   transform: translate(-50%, -50%);
   transition: 0.2s ease-out;
   z-index: -1;
-} */
+}
 nav {
   background: teal;
   position: fixed;
